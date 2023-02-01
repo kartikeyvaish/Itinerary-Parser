@@ -1,0 +1,80 @@
+[
+  {
+    "day": 1,
+    "destination": "jaipur",
+    "attractions": [
+      "amber fort",
+      "city palace",
+      "jantar mantar"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 2,
+    "destination": "jaipur",
+    "attractions": [
+      "hawa mahal",
+      "jal mahal",
+      "birla temple"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 3,
+    "destination": "jodhpur",
+    "attractions": [
+      "mehrangarh fort",
+      "jaswant thada memorial"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 4,
+    "destination": "udaipur",
+    "attractions": [
+      "the city palace",
+      "jagdish temple"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 5,
+    "destination": "udaipur",
+    "attractions": [
+      "jagmandir island palace"
+    ],
+    "activities": [
+      "boat ride"
+    ]
+  },
+  {
+    "day": 6,
+    "destination": "jaisalmer",
+    "attractions": [
+      "golden fort",
+      "patwon ki haveli",
+      "gadisar lake"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 7,
+    "destination": "jaipur",
+    "attractions": [
+
+    ],
+    "activities": [
+
+    ]
+  }
+]

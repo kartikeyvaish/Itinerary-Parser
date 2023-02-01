@@ -1,0 +1,175 @@
+[
+  {
+    "day": 1,
+    "destination": "delhi",
+    "attractions": [
+      "the red fort",
+      "qutub minar",
+      "lotus temple"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 2,
+    "destination": "delhi",
+    "attractions": [
+      "india gate",
+      "humayun's tomb",
+      "chandni chowk"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 3,
+    "destination": "agra",
+    "attractions": [
+      "the taj mahal",
+      "agra fort",
+      "itmad-ud-daula"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 4,
+    "destination": "jaipur",
+    "attractions": [
+      "amber fort",
+      "city palace",
+      "jantar mantar"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 5,
+    "destination": "jaipur",
+    "attractions": [
+      "hawa mahal",
+      "jal mahal",
+      "birla temple"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 6,
+    "destination": "jodhpur",
+    "attractions": [
+      "mehrangarh fort",
+      "jaswant thada memorial",
+      "the umaid bhawan palace"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 7,
+    "destination": "udaipur",
+    "attractions": [
+      "the city palace",
+      "jagdish temple",
+      "the monsoon palace"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 8,
+    "destination": "udaipur",
+    "attractions": [
+      "jagmandir island palace",
+      "the sajjangarh wildlife sanctuary"
+    ],
+    "activities": [
+      "boat ride"
+    ]
+  },
+  {
+    "day": 9,
+    "destination": "jaisalmer",
+    "attractions": [
+      "golden fort",
+      "patwon ki haveli",
+      "gadisar lake"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 10,
+    "destination": "bikaner",
+    "attractions": [
+      "the junagarh fort",
+      "the lalgarh palace"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 11,
+    "destination": "mandawa",
+    "attractions": [
+      "the mandawa fort",
+      "hanuman prasad goenka haveli",
+      "the murmuria haveli"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 12,
+    "destination": "jaipur",
+    "attractions": [
+      "the nahargarh fort",
+      "the albert hall museum",
+      "the bapu bazaar"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 13,
+    "destination": "sariska national park",
+    "attractions": [
+      "wildlife"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 14,
+    "destination": "pushkar",
+    "attractions": [
+      "the pushkar lake",
+      "the brahma temple"
+    ],
+    "activities": [
+
+    ]
+  },
+  {
+    "day": 15,
+    "destination": "delhi",
+    "attractions": [
+
+    ],
+    "activities": [
+
+    ]
+  }
+]
